@@ -1,0 +1,27 @@
+{
+  "name": "App",
+  "main": "App.js",
+  "description": "Angular Basic app",
+  "keywords": [
+    "Angular",
+    "Basic"
+  ],
+  "authors": [
+    "Avhijit Dutta"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5",
+    "bootstrap": "boostrap#^3.3.7",
+    "jquery": "^3.2.1",
+    "angular-route": "1.5.11"
+  }
+}
